@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+*{
+   margin: 0;
+   padding: 0;
+ }
+ 
+ body{
+   background-color: lightgrey;
+   margin: 5px;
+ }
+ 
+ #text-shadow{
+   padding: 0 40px;
+   font-size: 30px;
+ }
+.drop_shadow{text-shadow: 2px 2px 3px gray;}
