@@ -25,3 +25,12 @@
                           0px 0px 13px yellow;}
 
 .drop_shadow{text-shadow: 2px 2px 3px gray;}
+
+*, *:before, *:after
+{  box-sizing: border-box; }
+html
+{  font-size: 62.5%;}
+body 
+{  color: #444;  background-color: hsl(0, 0%, 96%);}
+h1 
+{  font-size: 1.8rem;}
